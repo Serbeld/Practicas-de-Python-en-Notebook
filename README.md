@@ -1,2 +1,2 @@
-# Practicas-de-Python
+# Practicas de Python  :octocat:
 Este repositorio está orientado a realizar prácticas de programación en Python
