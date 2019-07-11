@@ -22,3 +22,7 @@ print(l3)
 
 l4 = l[1:4:2] # l4 = ['Dos', ['Cuatro', 5]]
 print(l4)
+
+# Imprime la última posición de la lista
+l5 = l[-1] # l5 = ['Cuatro', 5]
+print(l5)
