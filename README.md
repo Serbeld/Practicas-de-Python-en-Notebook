@@ -12,8 +12,8 @@ Los temas tratados en este repositorio son:
  ## Nivel Básico - Intermedio
 
     - Hello world
-    - Impresión Multi-línea en Python 
-    - Operaciones matemáticas en Python 
+    - Impresión Multi-línea
+    - Operaciones matemáticas 
     - Condicionales
     - Listas 
     - Tuplas
@@ -25,9 +25,9 @@ Los temas tratados en este repositorio son:
     
 ## Nivel intermedio - Avanzado
 
-    - Detección de movimiento usando la librería OpenCV
-    - Pruebas en matplotlib
     - Series temporales
+    - Pruebas en matplotlib
+    - Detección de movimiento usando la librería OpenCV
     - Evaluación en el pago mensual de un prestamo bancario
     
 End :octocat:
