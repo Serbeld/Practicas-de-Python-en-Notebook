@@ -2,9 +2,10 @@
 
 Este repositorio está orientado a realizar prácticas de programación en Python.
 
-Autor:
+Practicas de Python:
 
-    Sergio Luis Beleño Díaz
+    Autor: Sergio Luis Beleño Díaz
+    Última modificación: 03/07/2020
 
 Los temas tratados en este repositorio son:
 
@@ -24,9 +25,9 @@ Los temas tratados en este repositorio son:
     
 ## Nivel intermedio - Avanzado
 
-    - Captura de video usando detección de movimiento con la librería OpenCV
+    - Detección de movimiento usando la librería OpenCV
     - Pruebas en matplotlib
     - Series temporales
-    - Evaluación en el pago mensualidad de un prestamo bancario
+    - Evaluación en el pago mensual de un prestamo bancario
     
 End :octocat:
