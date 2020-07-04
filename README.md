@@ -1,4 +1,4 @@
-# Practicas de Python 
+# Prácticas de programación en Python 
 
 Este repositorio está orientado a realizar prácticas de programación en Python.
 
