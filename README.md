@@ -4,7 +4,7 @@ Este repositorio está orientado a realizar prácticas de programación en Pytho
 
 Autor:
 
-    Sergio Luis Beleño Díaz :octocat:
+    Sergio Luis Beleño Díaz
 
 Los temas tratados en este repositorio son:
 
