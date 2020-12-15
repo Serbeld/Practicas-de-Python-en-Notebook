@@ -29,5 +29,7 @@ Los temas tratados en este repositorio son:
     - Pruebas en matplotlib
     - Detección de movimiento usando la librería OpenCV
     - Evaluación en el pago mensual de un prestamo bancario
+    - Análisis estadisticos
+    - Entrenamiento redes neuronales artificiales para la predicción de trayectorias
     
 End :octocat:
